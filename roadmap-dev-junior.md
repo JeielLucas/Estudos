@@ -106,21 +106,21 @@
 
 ### Complexidade de Algoritmos
 
-- [ ] Notação Big O (O(1), O(n), O(n²), O(log n))
-- [ ] Análise de tempo de execução
-- [ ] Análise de espaço (memória)
-- [ ] Comparação entre algoritmos
+- [X] Notação Big O (O(1), O(n), O(n²), O(log n))
+- [X] Análise de tempo de execução
+- [X] Análise de espaço (memória)
+- [X] Comparação entre algoritmos
 
 ### Estruturas de Dados - Arrays
 
-- [ ] Declaração e inicialização
-- [ ] Acesso por índice
-- [ ] Iteração (for, while, forEach)
-- [ ] Métodos: push, pop, shift, unshift
-- [ ] Métodos: slice, splice, concat
-- [ ] Métodos: map, filter, reduce, find, some, every
-- [ ] Arrays multidimensionais (matrizes)
-- [ ] Ordenação de arrays
+- [X] Declaração e inicialização
+- [X] Acesso por índice
+- [X] Iteração (for, while, forEach)
+- [X] Métodos: push, pop, shift, unshift
+- [X] Métodos: slice, splice, concat
+- [X] Métodos: map, filter, reduce, find, some, every
+- [X] Arrays multidimensionais (matrizes)
+- [X] Ordenação de arrays
 - [ ] Busca em arrays
 
 ### Estruturas de Dados - Strings
